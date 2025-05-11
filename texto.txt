@@ -1,1 +1,1 @@
-Linha alterada na main
+Linha resolvida após merge (main + feature-1)
