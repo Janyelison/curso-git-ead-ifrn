@@ -1,0 +1,8 @@
+Janyelison Rodrigo Marques Ferreira
+Comandos Git utilizados (em ordem):
+1. mkdir atividade-git && cd atividade-git
+2. git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead.git
+3. cd curso-branchs-ifrn-ead
+4. echo 'Linha inicial na main' > texto.txt
+5. git add texto.txt
+6. git commit -m 'Adiciona texto.txt na main'
